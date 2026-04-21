@@ -12,8 +12,6 @@ body{
 background-attachment: fixed;
   display: flex;
 height: 100%;
-
-background-size: contain;
 background-repeat: no-repeat;
 color:rgb(250, 251, 248);
 font-size: 20px;
