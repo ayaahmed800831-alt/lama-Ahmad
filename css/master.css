@@ -87,21 +87,16 @@ img:hover{
 cursor: pointer;
 transform: scale(1.07);
 
-
-
-
-@media (max
   
 @media (min-widt:768px)and (max-width:1023px){
-.yyy{
   width: 90%;
 }
-.lama img{
+img{
   width: 85px;
 }
 }
 @media (min-width : 1024px){
-.yyy{
+{
 width: 82%;
 }
 }
